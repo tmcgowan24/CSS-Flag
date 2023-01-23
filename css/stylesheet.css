@@ -1,0 +1,89 @@
+  .photo {
+    background-image: url(../assets/Greater_coat_of_arms_of_the_United_States.svg.png);
+    background-repeat: no-repeat;
+      position: fixed;
+      width: 700px;
+      height: 400px;
+      top: 5px;
+      left: 60px;
+  }
+
+  .box-1 {
+
+      position: fixed;
+      background-color: maroon;
+      top: 0px;
+      left: 400px;
+      height: 50px;
+      width: 1040px;
+  }
+
+  .box-2 {
+
+      position: fixed;
+      background-color: maroon;
+      top: 90px;
+      left: 400px;
+      height: 50px;
+      width: 1040px;
+  }
+
+  .box-3 {
+
+      position: fixed;
+      background-color: maroon;
+      top: 180px;
+      left: 430px;
+      height: 50px;
+      width: 1010px;
+  }
+
+  .box-4 {
+
+      position: fixed;
+      background-color: maroon;
+      top: 270px;
+      left: 430px;
+      height: 50px;
+      width: 1010px;
+  }
+
+  .box-5 {
+
+      position: fixed;
+      background-color: navy;
+      top: 0px;
+      left: 0px;
+      height: 320px;
+      width: 430px;
+  }
+
+  .box-6 {
+
+      position: fixed;
+      background-color: maroon;
+      top: 360px;
+      left: 0px;
+      height: 50px;
+      width: 1440px;
+  }
+
+  .box-7 {
+
+      position: fixed;
+      background-color: maroon;
+      top: 450px;
+      left: 0px;
+      height: 50px;
+      width: 1440px;
+  }
+
+  .box-8 {
+
+      position: fixed;
+      background-color: maroon;
+      top: 540px;
+      left: 0px;
+      height: 50px;
+      width: 1440px;
+  }
